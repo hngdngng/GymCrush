@@ -26,6 +26,7 @@
     2. Run npm install in your bash/command line.
     3. If using the seed.js provided, run 'npm run seed' once to seed data into your database.
 
+
   ## Usage
       
     1. To run application, invoke with node server.js (npm start) or nodemon server.js (npm run watch) in your bash/command line. 
