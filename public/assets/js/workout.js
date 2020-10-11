@@ -44,6 +44,10 @@ function formatDate(date) {
   return new Date(date).toLocaleDateString(options);
 }
 
+// function totalDuration(exercises) {
+
+// }
+
 function renderWorkoutSummary(summary) {
   const container = document.querySelector(".workout-stats");
 
